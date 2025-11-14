@@ -1,0 +1,173 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "Colores",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "⎯⎯⎯⎯⎯ Colores  <a:dance_1:882091912172019744>   ⎯⎯⎯⎯⎯",
+                "description": "-  <:Anaranjado:908493572398018581> <a:flechaRPT:909178494892793906> <@&935465613126696960>\n\n-  <:azul:908493575136890932> <a:flechaRPT:909178494892793906>   <@&935464480945635348>\n\n- <:rojo:908493575409528904> <a:flechaRPT:909178494892793906>   <@&935464300447957014>\n\n- <:fucsia:908493575384354907> <a:flechaRPT:909178494892793906>   <@&935464851755655189>\n\n- <:morado:908493575459835954> <a:flechaRPT:909178494892793906>   <@&935464065327845386>\n\n- <:verde:908493575577280512> <a:flechaRPT:909178494892793906>   <@&935465260385726485>\n\n- <:negro:908493576579719169> <a:flechaRPT:909178494892793906>   <@&935464624311136337>",
+                "color": null
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/974026563559501914/zGJlz_suKyCwGNTyIGAu8F_1rHXQA5BgSSWEFw-Dnz1SoFhdoR4Es1nc-PH0ne9mV_j1"
+        }
+      ]
+    },
+    {
+      "name": "Edad",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "⎯⎯⎯⎯⎯ Edad  <a:dance_1:882091912172019744>   ⎯⎯⎯⎯⎯",
+                "description": "-  🍻 <a:flechaRPT:909178494892793906> <@&934826834175086602>\n\n-  🔞 <a:flechaRPT:909178494892793906>   <@&934826618944364624>",
+                "color": null
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/974026563559501914/zGJlz_suKyCwGNTyIGAu8F_1rHXQA5BgSSWEFw-Dnz1SoFhdoR4Es1nc-PH0ne9mV_j1"
+        }
+      ]
+    },
+    {
+      "name": "Situacion Sentimental",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "⎯⎯⎯⎯⎯ Situacion sentimental  <a:dance_1:882091912172019744>   ⎯⎯⎯⎯⎯",
+                "description": "-  🥰 <a:flechaRPT:909178494892793906> <@&934835169179869314>\n\n-  🥴  <a:flechaRPT:909178494892793906>   <@&934835052725035058>\n\n- 💍  <a:flechaRPT:909178494892793906>   <@&934835484708982824>\n\n- 😋 <a:flechaRPT:909178494892793906>   <@&934835676476751903>",
+                "color": null
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/974026563559501914/zGJlz_suKyCwGNTyIGAu8F_1rHXQA5BgSSWEFw-Dnz1SoFhdoR4Es1nc-PH0ne9mV_j1"
+        }
+      ]
+    },
+    {
+      "name": "Paises 1",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "⎯⎯⎯⎯⎯ Paises  <a:dance_1:882091912172019744>   ⎯⎯⎯⎯⎯",
+                "description": "- 🇦🇺 <a:flechaRPT:909178494892793906> <@&934804998083190845>\n\n- 🇨🇺 <a:flechaRPT:909178494892793906> <@&934806036701904946>\n\n- 🇵🇷 <a:flechaRPT:909178494892793906> <@&934806555679940608>\n\n- 🇪🇸 <a:flechaRPT:909178494892793906> <@&934805450803789875>\n\n- 🇩🇴 <a:flechaRPT:909178494892793906> <@&934805275708383242>\n\n- 🇧🇷 <a:flechaRPT:909178494892793906> <@&934806673623752704>\n\n- 🇺🇸 <a:flechaRPT:909178494892793906> <@&934806471655424001>\n\n- 🇨🇴 <a:flechaRPT:909178494892793906> <@&934805627769876521>\n\n- 🇦🇷 <a:flechaRPT:909178494892793906> <@&934805152127414323>\n\n- 🇻🇪 <a:flechaRPT:909178494892793906> <@&934805889792229418>\n\n- 🇭🇳 <a:flechaRPT:909178494892793906> <@&934808203122843688>",
+                "color": null
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/974026563559501914/zGJlz_suKyCwGNTyIGAu8F_1rHXQA5BgSSWEFw-Dnz1SoFhdoR4Es1nc-PH0ne9mV_j1"
+        }
+      ]
+    },
+    {
+      "name": "Paises 2",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "⎯⎯⎯⎯⎯ Paises  <a:dance_1:882091912172019744>   ⎯⎯⎯⎯⎯",
+                "description": "- 🇻🇳 <a:flechaRPT:909178494892793906> <@&934812907173183489>\n\n- 🇵🇪 <a:flechaRPT:909178494892793906> <@&934806183565484032>\n\n- 🇲🇽 <a:flechaRPT:909178494892793906> <@&934805954598408262>\n\n- 🇨🇱 <a:flechaRPT:909178494892793906> <@&934805758980288522>\n\n- 🇧🇴 <a:flechaRPT:909178494892793906> <@&934807441873453076>\n\n- 🇬🇹 <a:flechaRPT:909178494892793906> <@&934807561079758919>\n\n- 🇸🇻 <a:flechaRPT:909178494892793906> <@&934807842714710087>\n\n- 🇺🇾 <a:flechaRPT:909178494892793906> <@&934806844868792331>\n\n- 🇨🇷 <a:flechaRPT:909178494892793906> <@&934808040979456100>\n\n- 🇪🇨 <a:flechaRPT:909178494892793906> <@&934806310791286816>\n\n- 🇵🇾 <a:flechaRPT:909178494892793906> <@&934807705527418931>",
+                "color": null
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/974026563559501914/zGJlz_suKyCwGNTyIGAu8F_1rHXQA5BgSSWEFw-Dnz1SoFhdoR4Es1nc-PH0ne9mV_j1"
+        }
+      ]
+    },
+    {
+      "name": "Horoscopos",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "⎯⎯⎯⎯⎯ Horoscopos  <a:dance_1:882091912172019744>   ⎯⎯⎯⎯⎯",
+                "description": "- ♈ <a:flechaRPT:909178494892793906> <@&934849937382973441>\n\n- ♉ <a:flechaRPT:909178494892793906> <@&934850056106950676>\n\n- ♊ <a:flechaRPT:909178494892793906> <@&934849806902382664>\n\n- ♋ <a:flechaRPT:909178494892793906> <@&934849529730179102>\n\n- ♌ <a:flechaRPT:909178494892793906> <@&934848532492468305>\n\n- ♍ <a:flechaRPT:909178494892793906> <@&934848289331904552>\n\n- ♎ <a:flechaRPT:909178494892793906> <@&934848959170613378>\n\n- ♏ <a:flechaRPT:909178494892793906> <@&934849169439457291>\n\n- ♐ <a:flechaRPT:909178494892793906> <@&934849652744933468>\n\n- ♑ <a:flechaRPT:909178494892793906> <@&934848459545141329>\n\n- ♒ <a:flechaRPT:909178494892793906> <@&934848375352873052>\n\n- ♓ <a:flechaRPT:909178494892793906> <@&934848874454065182>",
+                "color": null
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/974026563559501914/zGJlz_suKyCwGNTyIGAu8F_1rHXQA5BgSSWEFw-Dnz1SoFhdoR4Es1nc-PH0ne9mV_j1"
+        }
+      ]
+    },
+    {
+      "name": "Juegos",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "⎯⎯⎯⎯⎯ Juegos  <a:dance_1:882091912172019744>   ⎯⎯⎯⎯⎯",
+                "description": "- ⛏️ <a:flechaRPT:909178494892793906> <@&935481148438626344>\n\n- 🎲 <a:flechaRPT:909178494892793906> <@&935481323819270164>\n\n- 🏹 <a:flechaRPT:909178494892793906> <@&935481442119610419>\n\n- ☎️ <a:flechaRPT:909178494892793906> <@&935483245926174780>\n\n- 🚀 <a:flechaRPT:909178494892793906> <@&935501934851416104>\n\n- ⚔️ <a:flechaRPT:909178494892793906> <@&935501879394304000>\n\n- 🔫 <a:flechaRPT:909178494892793906> <@&935503240945098792>",
+                "color": null
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/974026563559501914/zGJlz_suKyCwGNTyIGAu8F_1rHXQA5BgSSWEFw-Dnz1SoFhdoR4Es1nc-PH0ne9mV_j1"
+        }
+      ]
+    }
+  ]
+}
